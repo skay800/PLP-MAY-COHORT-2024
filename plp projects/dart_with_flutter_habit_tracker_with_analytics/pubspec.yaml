@@ -1,0 +1,8 @@
+name: dart_with_flutter_habit_tracker_with_analytics
+description: A new Flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.3
+environment:
+  sdk: '^3.5.0'

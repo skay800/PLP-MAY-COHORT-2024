@@ -1,0 +1,27 @@
+{
+    "income": [
+        {
+            "amount": 1.0,
+            "source": "papa"
+        },
+        {
+            "amount": 10.0,
+            "source": "salary"
+        },
+        {
+            "amount": 1000.0,
+            "source": "pension"
+        },
+        {
+            "amount": 2000.0,
+            "source": "salary"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 500.0,
+            "category": "food"
+        }
+    ],
+    "budget": 1000.0
+}
